@@ -72,7 +72,3 @@ The classification threshold is a simple example and may not match an institutio
 ## Learning Outcomes
 
 This project provides practice in Python programming, tabular data processing, descriptive statistics, data visualization, CSV file handling, and basic software testing.
-
-## Development Note
-
-This project was developed with AI assistance. The code and outputs should be reviewed and tested before being used for further analysis.
